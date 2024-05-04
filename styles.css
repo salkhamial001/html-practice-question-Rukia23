@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    margin: 1px;
+    padding: 0;
+}
+
+header {
+    background-color: #333333a1;
+    color: #555;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav {
+    background-color: #fff;
+}
+
+nav ul {
+    list-style-type: square;
+    margin: 0;
+    padding: 20px 0;
+}
+
+nav ul li {
+    display: inline; 
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration-color: #fff;
+}
+
+table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #111;
+    padding: 20px;
+    text-align: left;
+}
